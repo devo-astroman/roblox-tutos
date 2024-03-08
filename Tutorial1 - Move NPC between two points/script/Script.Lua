@@ -1,6 +1,6 @@
 -- Level: basic
 -- This code moves an avatar model from a point A to a point B
-
+-- Check tutorial: https://youtu.be/OhEepENjBUQ
 -- Wait for 4 seconds
 wait(4)
 

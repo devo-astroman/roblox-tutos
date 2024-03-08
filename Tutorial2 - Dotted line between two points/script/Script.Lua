@@ -1,6 +1,6 @@
 -- Level: basic
 -- This code displays parts from point P0 to P1
-
+-- Check tutorial: https://youtu.be/zI81r5TxXRc
 -- Get elements from the workspace
 ------- Wait for 3 seconds, so all the elements are loadded in the workspace++
 wait(3)
